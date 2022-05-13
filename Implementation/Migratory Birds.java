@@ -23,6 +23,8 @@ class Result {
     // Write your code here
       
       
+//Author : AmanEleven
+//Follow : All Personal and Professional Links Here -->  https://linktr.ee/amaneleven
       
   //   👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇   
      
